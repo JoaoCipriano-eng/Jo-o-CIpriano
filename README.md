@@ -17,7 +17,8 @@ Abaixo estão alguns dos principais projetos que desenvolvi, focando em resolver
 
 #### 1. 🚀 [calculadora]
 - **O que é:** [Um projeto basico de calculadora]
-- **🔗 [Acessar Repositório](link-do-repositorio) 
+- **🔗 [Acessar Repositório](link-do-repositorio)
+- **Solução & Stack:** Construído em **[Tecnologia Python]**. 
 
 #### 2. ⚙️ [Projeto de banco de dados]
 - **O que é:** [Um projeto de cadastro de itens para uma empresa]
