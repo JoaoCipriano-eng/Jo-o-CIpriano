@@ -25,5 +25,4 @@ Abaixo estão alguns dos principais projetos que desenvolvi, focando em resolver
 Seja para discutir uma oportunidade, colaborar em um projeto ou apenas tomar um café virtual:
 
 - 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/jo%C3%A3o-cipriano-3ba41a224/)
-- 📧 **E-mail:** [seu.email@provedor.com](joaociprianos@hotmail.com)
   
